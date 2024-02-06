@@ -21,7 +21,7 @@ By working on this project, you will:
 - Evaluate model performance using relevant metrics such as accuracy, precision, and recall.
 
 ## Dataset
-The project utilizes the OASIS longitudinal brain MRI dataset, which includes MRI scans from individuals with different dementia statuses. The dataset provides features such as age, gender, Mini-Mental State Examination (MMSE) scores, and brain volume measurements.
+The project utilizes the OASIS longitudinal brain MRI dataset (https://www.oasis-brains.org/), which includes MRI scans from individuals with different dementia statuses. The dataset provides features such as age, gender, Mini-Mental State Examination (MMSE) scores, and brain volume measurements.
 
 ## Methodology
 1. **Data Preprocessing:** Explore and preprocess the MRI data, handling missing values, encoding categorical variables, and scaling numerical features.
